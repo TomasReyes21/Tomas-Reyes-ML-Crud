@@ -21,14 +21,7 @@ const controller = {
 			toThousand,
 			keywords : req.query.keywords
 		})
-	},
-	admin: (req, res) => {
-		return res.render('admin',{
-			products,
-			toThousand			
-		})
-	},
-	
+	}	
 };
 
 module.exports = controller;

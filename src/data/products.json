@@ -142,23 +142,5 @@
       "category": "in-sale",
       "description": "Deja que la música dance cobre vida con EXTRA BASS™ Anima el ambiente con EXTRA BASS™1. Un radiador pasivo trabaja con el parlante monoaural para potenciar los tonos bajos y mejorar los graves, a pesar del tamaño compacto. ",
       "image": "img-parlante-sony.jpg"
-   },
-   {
-      "id": 17,
-      "name": "zapas nike",
-      "price": 0,
-      "discount": 4,
-      "category": "in-sale",
-      "description": "",
-      "image": null
-   },
-   {
-      "id": 18,
-      "name": "zapas nike",
-      "price": 800000,
-      "discount": 4,
-      "category": "in-sale",
-      "description": "",
-      "image": null
    }
 ]
